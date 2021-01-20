@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/utilisateur/Documents/briefs/mlflow/src/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Training CNN Model

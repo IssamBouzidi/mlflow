@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/1773f039e0764d8182034be1b71274cc/artifacts
+end_time: 1611174786405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1773f039e0764d8182034be1b71274cc
+run_uuid: 1773f039e0764d8182034be1b71274cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1611174786117
+status: 3
+tags: []
+user_id: Issam BOUZIDI
