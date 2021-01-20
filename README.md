@@ -16,6 +16,6 @@ Une fois le mlflow excecuté, lancer le daschbord mlflow sur localhost:5000 pour
   
 ### Captures écran résultat  
 #### Informations générales  
-![](https://github.com/IssamBouzidi/mlflow/results/screenshots/1.png)
+![Informations Generales](https://github.com/IssamBouzidi/mlflow/tree/master/results/screenshots/1.png)
 
 
